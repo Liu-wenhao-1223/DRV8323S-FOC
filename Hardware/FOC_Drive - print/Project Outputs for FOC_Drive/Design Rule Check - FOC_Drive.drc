@@ -1,0 +1,553 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\liuwe\Desktop\Graduate_design\PCB\Drive\FOC_Drive\FOC_Drive.PcbDoc
+Date     : 4/15/2022
+Time     : 9:49:37 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: AGND_L01_P008 On Top Layer
+
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3565mil,2675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3605mil,2585mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3605mil,2645mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3605mil,2675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3645mil,2675mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3mil < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Free-10(3685mil,2645mil) on Multi-Layer 
+   Violation between Clearance Constraint: (18.186mil < 20mil) Between Area Fill (3515mil,2560mil) (3670mil,2850mil) on Top Layer And Pad Q1-4(3699.997mil,2816.813mil) on Top Layer 
+   Violation between Clearance Constraint: (19.784mil < 20mil) Between Pad C10-1(4105mil,3497.445mil) on Top Layer And Via (4055mil,3485mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (19.834mil < 20mil) Between Pad C10-1(4105mil,3497.445mil) on Top Layer And Via (4055mil,3515mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (16.857mil < 20mil) Between Pad C10-2(4105mil,3552.555mil) on Top Layer And Track (4013.11mil,3590.16mil)(4134.717mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (19.935mil < 20mil) Between Pad C10-2(4105mil,3552.555mil) on Top Layer And Track (4134.717mil,3590.16mil)(4168.868mil,3624.31mil) on Top Layer 
+   Violation between Clearance Constraint: (19.784mil < 20mil) Between Pad C10-2(4105mil,3552.555mil) on Top Layer And Via (4055mil,3545mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.698mil < 20mil) Between Pad C1-1(4405mil,3937.445mil) on Top Layer And Track (4346.167mil,3935.69mil)(4403.032mil,3992.555mil) on Top Layer 
+   Violation between Clearance Constraint: (13.785mil < 20mil) Between Pad C12-1(4042.445mil,3130mil) on Top Layer And Track (4055mil,3085mil)(4058.5mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (13.785mil < 20mil) Between Pad C12-1(4042.445mil,3130mil) on Top Layer And Track (4058.5mil,3088.5mil)(4173.387mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (14.784mil < 20mil) Between Pad C12-1(4042.445mil,3130mil) on Top Layer And Via (4055mil,3085mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad C12-2(4097.555mil,3130mil) on Top Layer And Track (4058.5mil,3088.5mil)(4173.387mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (19.933mil < 20mil) Between Pad C9-2(3962.445mil,3785mil) on Top Layer And Track (3924.765mil,3754.765mil)(3925mil,3755mil) on Top Layer 
+   Violation between Clearance Constraint: (17.349mil < 20mil) Between Pad C9-2(3962.445mil,3785mil) on Top Layer And Track (3963.9mil,3731.236mil)(3977.598mil,3744.935mil) on Top Layer 
+   Violation between Clearance Constraint: (17.641mil < 20mil) Between Pad C9-2(3962.445mil,3785mil) on Top Layer And Track (3965mil,3855mil)(4017.555mil,3802.445mil) on Top Layer 
+   Violation between Clearance Constraint: (17.349mil < 20mil) Between Pad C9-2(3962.445mil,3785mil) on Top Layer And Track (3977.598mil,3744.935mil)(4000.206mil,3744.935mil) on Top Layer 
+   Violation between Clearance Constraint: (12.433mil < 20mil) Between Pad C9-2(3962.445mil,3785mil) on Top Layer And Via (3925mil,3755mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (18.952mil < 20mil) Between Pad CA-1(3495mil,3210mil) on Multi-Layer And Track (3490mil,3105mil)(3595mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (16.693mil < 20mil) Between Pad DC-1(3798.15mil,4265mil) on Multi-Layer And Track (3615mil,4345mil)(3915mil,4345mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (13.366mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Pad DRV8323S-40(3806.42mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.49mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Track (3690mil,3725mil)(3746.1mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Track (3746.1mil,3668.9mil)(3776.89mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (8.782mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Track (3806.42mil,3688.584mil)(3806.42mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (8.782mil < 20mil) Between Pad DRV8323S-1(3776.89mil,3688.58mil) on Top Layer And Track (3806.42mil,3688.584mil)(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-10(3776.89mil,3511.42mil) on Top Layer And Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (13.505mil < 20mil) Between Pad DRV8323S-10(3776.89mil,3511.42mil) on Top Layer And Track (3512.235mil,3527.235mil)(3746.632mil,3527.235mil) on Top Layer 
+   Violation between Clearance Constraint: (13.381mil < 20mil) Between Pad DRV8323S-10(3776.89mil,3511.42mil) on Top Layer And Track (3746.632mil,3527.235mil)(3750.497mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-10(3776.89mil,3511.42mil) on Top Layer And Track (3750.497mil,3531.1mil)(3776.89mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-11(3806.42mil,3481.89mil) on Top Layer And Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (18.548mil < 20mil) Between Pad DRV8323S-11(3806.42mil,3481.89mil) on Top Layer And Track (3818.5mil,3416.095mil)(3818.5mil,3443.905mil) on Top Layer 
+   Violation between Clearance Constraint: (16.203mil < 20mil) Between Pad DRV8323S-11(3806.42mil,3481.89mil) on Top Layer And Track (3818.5mil,3443.905mil)(3826.1mil,3451.506mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-11(3806.42mil,3481.89mil) on Top Layer And Track (3826.1mil,3451.506mil)(3826.1mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (11.059mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3774.281mil,3429.281mil)(3806.42mil,3461.42mil) on Top Layer 
+   Violation between Clearance Constraint: (15.626mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3776.89mil,3511.42mil)(3806.424mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3806.42mil,3461.42mil)(3806.42mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3806.42mil,3481.89mil)(3806.42mil,3511.416mil) on Top Layer 
+   Violation between Clearance Constraint: (15.626mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3806.42mil,3511.416mil)(3806.424mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-12(3826.1mil,3481.89mil) on Top Layer And Track (3845.79mil,3440.79mil)(3845.79mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer And Pad DRV8323S-14(3865.47mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.216mil < 20mil) Between Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer And Track (3818.5mil,3443.905mil)(3826.1mil,3451.506mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer And Track (3826.1mil,3451.506mil)(3826.1mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-13(3845.79mil,3481.89mil) on Top Layer And Track (3865.47mil,3445.876mil)(3865.47mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-14(3865.47mil,3481.89mil) on Top Layer And Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-14(3865.47mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-14(3865.47mil,3481.89mil) on Top Layer And Track (3845.79mil,3440.79mil)(3845.79mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-14(3865.47mil,3481.89mil) on Top Layer And Track (3885.16mil,3435.16mil)(3885.16mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer And Pad DRV8323S-16(3904.84mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer And Track (3865.47mil,3445.876mil)(3865.47mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer And Track (3904.84mil,3450.566mil)(3904.84mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (16.869mil < 20mil) Between Pad DRV8323S-15(3885.16mil,3481.89mil) on Top Layer And Track (3904.84mil,3450.566mil)(3908.5mil,3446.905mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-16(3904.84mil,3481.89mil) on Top Layer And Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-16(3904.84mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-16(3904.84mil,3481.89mil) on Top Layer And Track (3885.16mil,3435.16mil)(3885.16mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-16(3904.84mil,3481.89mil) on Top Layer And Track (3924.53mil,3444.529mil)(3924.53mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Track (3904.84mil,3450.566mil)(3904.84mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (16.876mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Track (3904.84mil,3450.566mil)(3908.5mil,3446.905mil) on Top Layer 
+   Violation between Clearance Constraint: (17.515mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Track (3908.5mil,3406.5mil)(3908.5mil,3446.905mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Track (3944.21mil,3451.195mil)(3944.21mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (16.424mil < 20mil) Between Pad DRV8323S-17(3924.53mil,3481.89mil) on Top Layer And Track (3944.21mil,3451.195mil)(3955mil,3440.405mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer And Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer And Track (3924.53mil,3444.529mil)(3924.53mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer And Track (3963.9mil,3456.1mil)(3963.9mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.351mil < 20mil) Between Pad DRV8323S-18(3944.21mil,3481.89mil) on Top Layer And Track (3963.9mil,3456.1mil)(3970mil,3450mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Pad DRV8323S-20(3983.58mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (15.602mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3895.004mil,3600mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3944.21mil,3451.195mil)(3944.21mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (16.43mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3944.21mil,3451.195mil)(3955mil,3440.405mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3983.58mil,3471.811mil)(3983.58mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3983.58mil,3471.811mil)(3984.249mil,3471.142mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3983.58mil,3481.89mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-19(3963.9mil,3481.89mil) on Top Layer And Track (3984.249mil,3471.142mil)(4038.453mil,3471.142mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.716mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3722.445mil,3672.555mil)(3745.79mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3745.79mil,3649.21mil)(3776.89mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3745mil,3710.392mil)(3766.811mil,3688.58mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3766.811mil,3688.58mil)(3776.89mil,3688.58mil) on Top Layer 
+   Violation between Clearance Constraint: (15.632mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3806.42mil,3688.584mil)(3806.42mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (15.602mil < 20mil) Between Pad DRV8323S-2(3776.89mil,3668.9mil) on Top Layer And Track (3806.42mil,3688.584mil)(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (13.366mil < 20mil) Between Pad DRV8323S-20(3983.58mil,3481.89mil) on Top Layer And Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-20(3983.58mil,3481.89mil) on Top Layer And Track (3963.9mil,3456.1mil)(3963.9mil,3481.89mil) on Top Layer 
+   Violation between Clearance Constraint: (12.954mil < 20mil) Between Pad DRV8323S-20(3983.58mil,3481.89mil) on Top Layer And Track (3963.9mil,3456.1mil)(3970mil,3450mil) on Top Layer 
+   Violation between Clearance Constraint: (11.142mil < 20mil) Between Pad DRV8323S-20(3983.58mil,3481.89mil) on Top Layer And Track (3970mil,3450mil)(4039.796mil,3450mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (8.782mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Track (3895.004mil,3600mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (8.782mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Track (3983.58mil,3481.89mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Track (4013.11mil,3531.1mil)(4038.494mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (12.668mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Track (4038.494mil,3531.1mil)(4054.595mil,3515mil) on Top Layer 
+   Violation between Clearance Constraint: (13.642mil < 20mil) Between Pad DRV8323S-21(4013.11mil,3511.42mil) on Top Layer And Via (4055mil,3515mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (15.596mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (3895.004mil,3600mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (15.626mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (3983.58mil,3481.89mil)(3983.58mil,3511.424mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (4013.11mil,3511.42mil)(4023.189mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (4013.11mil,3550.79mil)(4045.151mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (4023.189mil,3511.42mil)(4046.738mil,3487.87mil) on Top Layer 
+   Violation between Clearance Constraint: (17.391mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (4045.151mil,3550.79mil)(4050.941mil,3545mil) on Top Layer 
+   Violation between Clearance Constraint: (19.067mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Track (4050.941mil,3545mil)(4055mil,3545mil) on Top Layer 
+   Violation between Clearance Constraint: (15.338mil < 20mil) Between Pad DRV8323S-22(4013.11mil,3531.1mil) on Top Layer And Via (4055mil,3545mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer And Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer And Track (4013.11mil,3531.1mil)(4038.494mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer And Track (4013.11mil,3570.47mil)(4079.53mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (13.132mil < 20mil) Between Pad DRV8323S-23(4013.11mil,3550.79mil) on Top Layer And Track (4038.494mil,3531.1mil)(4054.595mil,3515mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer And Pad DRV8323S-25(4013.11mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer And Track (4013.11mil,3550.79mil)(4045.151mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer And Track (4013.11mil,3590.16mil)(4134.717mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (17.385mil < 20mil) Between Pad DRV8323S-24(4013.11mil,3570.47mil) on Top Layer And Track (4045.151mil,3550.79mil)(4050.941mil,3545mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-25(4013.11mil,3590.16mil) on Top Layer And Pad DRV8323S-26(4013.11mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-25(4013.11mil,3590.16mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-25(4013.11mil,3590.16mil) on Top Layer And Track (4013.11mil,3570.47mil)(4079.53mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-25(4013.11mil,3590.16mil) on Top Layer And Track (4013.11mil,3609.84mil)(4073.363mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-26(4013.11mil,3609.84mil) on Top Layer And Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-26(4013.11mil,3609.84mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-26(4013.11mil,3609.84mil) on Top Layer And Track (4013.11mil,3590.16mil)(4134.717mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-26(4013.11mil,3609.84mil) on Top Layer And Track (4013.11mil,3629.53mil)(4050.471mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer And Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer And Track (4013.11mil,3609.84mil)(4073.363mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer And Track (4013.11mil,3649.21mil)(4044.275mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (16.755mil < 20mil) Between Pad DRV8323S-27(4013.11mil,3629.53mil) on Top Layer And Track (4044.275mil,3649.21mil)(4058.565mil,3663.5mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Track (4013.11mil,3629.53mil)(4050.471mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Track (4013.11mil,3668.9mil)(4013.78mil,3669.57mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Track (4013.78mil,3669.57mil)(4030.51mil,3669.57mil) on Top Layer 
+   Violation between Clearance Constraint: (11.114mil < 20mil) Between Pad DRV8323S-28(4013.11mil,3649.21mil) on Top Layer And Track (4030.51mil,3669.57mil)(4045.941mil,3685mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Track (4013.11mil,3649.21mil)(4044.275mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Track (4013.11mil,3688.58mil)(4023.189mil,3688.58mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Track (4023.189mil,3688.58mil)(4028.5mil,3693.892mil) on Top Layer 
+   Violation between Clearance Constraint: (15.661mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Track (4028.5mil,3693.892mil)(4028.5mil,3698.5mil) on Top Layer 
+   Violation between Clearance Constraint: (16.762mil < 20mil) Between Pad DRV8323S-29(4013.11mil,3668.9mil) on Top Layer And Track (4044.275mil,3649.21mil)(4058.565mil,3663.5mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Pad DRV8323S-4(3776.89mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.498mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Track (3690mil,3725mil)(3746.1mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (17.618mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Track (3735mil,3620mil)(3744.53mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Track (3744.53mil,3629.53mil)(3776.89mil,3629.53mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-3(3776.89mil,3649.21mil) on Top Layer And Track (3746.1mil,3668.9mil)(3776.89mil,3668.9mil) on Top Layer 
+   Violation between Clearance Constraint: (13.366mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.775mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (9.68mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Track (4013.11mil,3668.9mil)(4013.78mil,3669.57mil) on Top Layer 
+   Violation between Clearance Constraint: (9.68mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Track (4013.78mil,3669.57mil)(4030.51mil,3669.57mil) on Top Layer 
+   Violation between Clearance Constraint: (6.549mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Track (4030.51mil,3669.57mil)(4045.941mil,3685mil) on Top Layer 
+   Violation between Clearance Constraint: (12.083mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Track (4045.941mil,3685mil)(4050mil,3685mil) on Top Layer 
+   Violation between Clearance Constraint: (8.642mil < 20mil) Between Pad DRV8323S-30(4013.11mil,3688.58mil) on Top Layer And Via (4050mil,3685mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Pad DRV8323S-32(3963.9mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Track (3963.9mil,3668.896mil)(3963.9mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Track (3963.9mil,3718.11mil)(3963.9mil,3731.236mil) on Top Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Track (3963.9mil,3731.236mil)(3977.598mil,3744.935mil) on Top Layer 
+   Violation between Clearance Constraint: (6.077mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Track (3977.598mil,3744.935mil)(4000.206mil,3744.935mil) on Top Layer 
+   Violation between Clearance Constraint: (11.549mil < 20mil) Between Pad DRV8323S-31(3983.58mil,3718.11mil) on Top Layer And Track (4000.206mil,3744.935mil)(4007.555mil,3752.284mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-32(3963.9mil,3718.11mil) on Top Layer And Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-32(3963.9mil,3718.11mil) on Top Layer And Track (3944.21mil,3718.11mil)(3944.21mil,3736.858mil) on Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 20mil) Between Pad DRV8323S-32(3963.9mil,3718.11mil) on Top Layer And Track (3944.21mil,3736.858mil)(3950mil,3742.648mil) on Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 20mil) Between Pad DRV8323S-32(3963.9mil,3718.11mil) on Top Layer And Track (3950mil,3742.648mil)(3950mil,3785mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.114mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Track (3924.53mil,3718.11mil)(3924.765mil,3718.345mil) on Top Layer 
+   Violation between Clearance Constraint: (10.114mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Track (3924.765mil,3718.345mil)(3924.765mil,3754.765mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Track (3963.9mil,3668.896mil)(3963.9mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Track (3963.9mil,3718.11mil)(3963.9mil,3731.236mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Track (3963.9mil,3731.236mil)(3977.598mil,3744.935mil) on Top Layer 
+   Violation between Clearance Constraint: (13.353mil < 20mil) Between Pad DRV8323S-33(3944.21mil,3718.11mil) on Top Layer And Via (3925mil,3755mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (15.703mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3903.5mil,3746.095mil)(3903.5mil,3774.441mil) on Top Layer 
+   Violation between Clearance Constraint: (14.766mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3903.5mil,3746.095mil)(3904.171mil,3745.424mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3904.171mil,3718.78mil)(3904.171mil,3745.424mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3904.171mil,3718.78mil)(3904.84mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3944.21mil,3718.11mil)(3944.21mil,3736.858mil) on Top Layer 
+   Violation between Clearance Constraint: (10.64mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3944.21mil,3736.858mil)(3950mil,3742.648mil) on Top Layer 
+   Violation between Clearance Constraint: (17.894mil < 20mil) Between Pad DRV8323S-34(3924.53mil,3718.11mil) on Top Layer And Track (3950mil,3742.648mil)(3950mil,3785mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (17.847mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Track (3880mil,3755.941mil)(3885.16mil,3750.781mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Track (3885.16mil,3718.11mil)(3885.16mil,3750.781mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Track (3924.53mil,3718.11mil)(3924.765mil,3718.345mil) on Top Layer 
+   Violation between Clearance Constraint: (10.594mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Track (3924.765mil,3718.345mil)(3924.765mil,3754.765mil) on Top Layer 
+   Violation between Clearance Constraint: (13.911mil < 20mil) Between Pad DRV8323S-35(3904.84mil,3718.11mil) on Top Layer And Via (3925mil,3755mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (13.475mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3858.5mil,3751.095mil)(3865.47mil,3744.124mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3865.47mil,3718.11mil)(3865.47mil,3744.124mil) on Top Layer 
+   Violation between Clearance Constraint: (13.601mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3903.5mil,3746.095mil)(3903.5mil,3774.441mil) on Top Layer 
+   Violation between Clearance Constraint: (13.601mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3903.5mil,3746.095mil)(3904.171mil,3745.424mil) on Top Layer 
+   Violation between Clearance Constraint: (9.68mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3904.171mil,3718.78mil)(3904.171mil,3745.424mil) on Top Layer 
+   Violation between Clearance Constraint: (9.68mil < 20mil) Between Pad DRV8323S-36(3885.16mil,3718.11mil) on Top Layer And Track (3904.171mil,3718.78mil)(3904.84mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (13.401mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Track (3835mil,3754.796mil)(3845.79mil,3744.006mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Track (3845.79mil,3718.11mil)(3845.79mil,3744.006mil) on Top Layer 
+   Violation between Clearance Constraint: (19.325mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Track (3880mil,3755.941mil)(3880mil,3770mil) on Top Layer 
+   Violation between Clearance Constraint: (17.854mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Track (3880mil,3755.941mil)(3885.16mil,3750.781mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-37(3865.47mil,3718.11mil) on Top Layer And Track (3885.16mil,3718.11mil)(3885.16mil,3750.781mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (13.132mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Track (3800mil,3769.595mil)(3826.1mil,3743.494mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Track (3826.1mil,3718.11mil)(3826.1mil,3743.494mil) on Top Layer 
+   Violation between Clearance Constraint: (14.165mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Track (3858.5mil,3751.095mil)(3858.5mil,3778.905mil) on Top Layer 
+   Violation between Clearance Constraint: (13.113mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Track (3858.5mil,3751.095mil)(3865.47mil,3744.124mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-38(3845.79mil,3718.11mil) on Top Layer And Track (3865.47mil,3718.11mil)(3865.47mil,3744.124mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Pad DRV8323S-40(3806.42mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (13.78mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Track (3806.42mil,3688.584mil)(3806.42mil,3718.11mil) on Top Layer 
+   Violation between Clearance Constraint: (15.596mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Track (3806.42mil,3688.584mil)(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.43mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Track (3835mil,3754.796mil)(3835mil,3795mil) on Top Layer 
+   Violation between Clearance Constraint: (13.036mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Track (3835mil,3754.796mil)(3845.79mil,3744.006mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-39(3826.1mil,3718.11mil) on Top Layer And Track (3845.79mil,3718.11mil)(3845.79mil,3744.006mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-4(3776.89mil,3629.53mil) on Top Layer And Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer 
+   Violation between Clearance Constraint: (16.709mil < 20mil) Between Pad DRV8323S-4(3776.89mil,3629.53mil) on Top Layer And Track (3722.445mil,3672.555mil)(3745.79mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-4(3776.89mil,3629.53mil) on Top Layer And Track (3745.79mil,3649.21mil)(3776.89mil,3649.21mil) on Top Layer 
+   Violation between Clearance Constraint: (12.668mil < 20mil) Between Pad DRV8323S-40(3806.42mil,3718.11mil) on Top Layer And Track (3800mil,3769.595mil)(3826.1mil,3743.494mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-40(3806.42mil,3718.11mil) on Top Layer And Track (3826.1mil,3718.11mil)(3826.1mil,3743.494mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer And Pad DRV8323S-5(3776.89mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer And Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer And Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer And Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (13.784mil < 20mil) Between Pad DRV8323S-41(3895.004mil,3600mil) on Top Layer And Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-5(3776.89mil,3609.84mil) on Top Layer And Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (13.874mil < 20mil) Between Pad DRV8323S-5(3776.89mil,3609.84mil) on Top Layer And Track (3730mil,3570mil)(3750.16mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-5(3776.89mil,3609.84mil) on Top Layer And Track (3750.16mil,3590.16mil)(3776.89mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer And Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (13.845mil < 20mil) Between Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer And Track (3725mil,3585mil)(3749.84mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (13.819mil < 20mil) Between Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer And Track (3735.034mil,3555.235mil)(3750.269mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer And Track (3749.84mil,3609.84mil)(3776.89mil,3609.84mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-6(3776.89mil,3590.16mil) on Top Layer And Track (3750.269mil,3570.47mil)(3776.89mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (11.019mil < 20mil) Between Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer And Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (13.626mil < 20mil) Between Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer And Track (3730mil,3570mil)(3750.16mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (13.742mil < 20mil) Between Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer And Track (3740.833mil,3541.235mil)(3750.388mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer And Track (3750.16mil,3590.16mil)(3776.89mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-7(3776.89mil,3570.47mil) on Top Layer And Track (3750.388mil,3550.79mil)(3776.89mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (11.029mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (19.086mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Track (3512.235mil,3527.235mil)(3746.632mil,3527.235mil) on Top Layer 
+   Violation between Clearance Constraint: (13.542mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Track (3735.034mil,3555.235mil)(3750.269mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (13.688mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Track (3746.632mil,3527.235mil)(3750.497mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Track (3750.269mil,3570.47mil)(3776.89mil,3570.47mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-8(3776.89mil,3550.79mil) on Top Layer And Track (3750.497mil,3531.1mil)(3776.89mil,3531.1mil) on Top Layer 
+   Violation between Clearance Constraint: (16.122mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3441.034mil,3541.235mil)(3740.833mil,3541.235mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3726.42mil,3511.42mil)(3776.89mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (13.465mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3740.833mil,3541.235mil)(3750.388mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (10.36mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3750.388mil,3550.79mil)(3776.89mil,3550.79mil) on Top Layer 
+   Violation between Clearance Constraint: (10.35mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3776.89mil,3511.42mil)(3806.424mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (15.632mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3806.42mil,3481.89mil)(3806.42mil,3511.416mil) on Top Layer 
+   Violation between Clearance Constraint: (15.632mil < 20mil) Between Pad DRV8323S-9(3776.89mil,3531.1mil) on Top Layer And Track (3806.42mil,3511.416mil)(3806.424mil,3511.42mil) on Top Layer 
+   Violation between Clearance Constraint: (13.31mil < 20mil) Between Pad Encoder-7(5144.996mil,2205.824mil) on Top Layer And Track (4860mil,2300mil)(5280mil,2300mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2585mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2615mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2645mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (17.662mil < 20mil) Between Pad Free-10(3565mil,2675mil) on Multi-Layer And Pad Q4-7(3599.993mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (6.779mil < 20mil) Between Pad Free-10(3565mil,2675mil) on Multi-Layer And Pad Q4-8(3549.993mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2675mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2675mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2915mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2945mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,2975mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (17.662mil < 20mil) Between Pad Free-10(3565mil,3005mil) on Multi-Layer And Pad Q1-7(3599.993mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (6.779mil < 20mil) Between Pad Free-10(3565mil,3005mil) on Multi-Layer And Pad Q1-8(3549.993mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3565mil,3005mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2585mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2585mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2615mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2645mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (10.033mil < 20mil) Between Pad Free-10(3605mil,2645mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.571mil < 20mil) Between Pad Free-10(3605mil,2645mil) on Multi-Layer And Track (3624.993mil,2629.058mil)(3629.36mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (12.113mil < 20mil) Between Pad Free-10(3605mil,2645mil) on Multi-Layer And Track (3629.36mil,2629.058mil)(3630.302mil,2630mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3605mil,2675mil) on Multi-Layer And Pad Q4-7(3599.993mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2675mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (9.378mil < 20mil) Between Pad Free-10(3605mil,2675mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2915mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2945mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,2975mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3605mil,3005mil) on Multi-Layer And Pad Q1-7(3599.993mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3605mil,3005mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2585mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2615mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2645mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3645mil,2675mil) on Multi-Layer And Pad Q4-6(3649.993mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2675mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2675mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2915mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2945mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,2975mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3645mil,3005mil) on Multi-Layer And Pad Q1-6(3649.993mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3645mil,3005mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2585mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2615mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2645mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (0.161mil < 20mil) Between Pad Free-10(3685mil,2645mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (14mil < 20mil) Between Pad Free-10(3685mil,2645mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (6.777mil < 20mil) Between Pad Free-10(3685mil,2675mil) on Multi-Layer And Pad Q4-5(3699.997mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (17.673mil < 20mil) Between Pad Free-10(3685mil,2675mil) on Multi-Layer And Pad Q4-6(3649.993mil,2713.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2675mil) on Multi-Layer And Pad Q4-9(3624.993mil,2629.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2915mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2945mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,2975mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.777mil < 20mil) Between Pad Free-10(3685mil,3005mil) on Multi-Layer And Pad Q1-5(3699.997mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (17.673mil < 20mil) Between Pad Free-10(3685mil,3005mil) on Multi-Layer And Pad Q1-6(3649.993mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3685mil,3005mil) on Multi-Layer And Pad Q1-9(3624.993mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2590mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2620mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2650mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (17.54mil < 20mil) Between Pad Free-10(3835mil,2680mil) on Multi-Layer And Pad Q5-7(3869.837mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (6.806mil < 20mil) Between Pad Free-10(3835mil,2680mil) on Multi-Layer And Pad Q5-8(3819.837mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2680mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2915mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2945mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,2975mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (17.54mil < 20mil) Between Pad Free-10(3835mil,3005mil) on Multi-Layer And Pad Q2-7(3869.837mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (6.806mil < 20mil) Between Pad Free-10(3835mil,3005mil) on Multi-Layer And Pad Q2-8(3819.837mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3835mil,3005mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2590mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2620mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2650mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (7.301mil < 20mil) Between Pad Free-10(3875mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3875mil,2680mil) on Multi-Layer And Pad Q5-7(3869.837mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2680mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2915mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2945mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,2975mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3875mil,3005mil) on Multi-Layer And Pad Q2-7(3869.837mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3875mil,3005mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2590mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2620mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2650mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3915mil,2680mil) on Multi-Layer And Pad Q5-6(3919.837mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2680mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2915mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2945mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,2975mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(3915mil,3005mil) on Multi-Layer And Pad Q2-6(3919.837mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3915mil,3005mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2590mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2620mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (4.961mil < 20mil) Between Pad Free-10(3955mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8mil < 20mil) Between Pad Free-10(3955mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2650mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.751mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Pad Q5-5(3969.841mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (17.795mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Pad Q5-6(3919.837mil,2718.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Pad Q5-9(3894.837mil,2634.058mil) on Top Layer 
+   Violation between Clearance Constraint: (13.495mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (19.987mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Track (3969.841mil,2716.798mil)(3976.652mil,2709.987mil) on Top Layer 
+   Violation between Clearance Constraint: (19.987mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Track (3976.652mil,2709.987mil)(3977.305mil,2709.987mil) on Top Layer 
+   Violation between Clearance Constraint: (4.976mil < 20mil) Between Pad Free-10(3955mil,2680mil) on Multi-Layer And Track (3977.305mil,2709.987mil)(4010mil,2677.292mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2915mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2945mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,2975mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.751mil < 20mil) Between Pad Free-10(3955mil,3005mil) on Multi-Layer And Pad Q2-5(3969.841mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (17.795mil < 20mil) Between Pad Free-10(3955mil,3005mil) on Multi-Layer And Pad Q2-6(3919.837mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(3955mil,3005mil) on Multi-Layer And Pad Q2-9(3894.837mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2590mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (7.792mil < 20mil) Between Pad Free-10(4105mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2620mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2650mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (16.314mil < 20mil) Between Pad Free-10(4105mil,2680mil) on Multi-Layer And Pad Q6-7(4139.681mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (5.057mil < 20mil) Between Pad Free-10(4105mil,2680mil) on Multi-Layer And Pad Q6-8(4089.681mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2680mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2915mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2945mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,2975mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (17.419mil < 20mil) Between Pad Free-10(4105mil,3005mil) on Multi-Layer And Pad Q3-7(4139.681mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (6.835mil < 20mil) Between Pad Free-10(4105mil,3005mil) on Multi-Layer And Pad Q3-8(4089.681mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4105mil,3005mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2590mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2620mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2650mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (4.692mil < 20mil) Between Pad Free-10(4145mil,2680mil) on Multi-Layer And Pad Q6-7(4139.681mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2680mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (2.655mil < 20mil) Between Pad Free-10(4145mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2915mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2945mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,2975mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(4145mil,3005mil) on Multi-Layer And Pad Q3-7(4139.681mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4145mil,3005mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2590mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2620mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2620mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2650mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.692mil < 20mil) Between Pad Free-10(4185mil,2680mil) on Multi-Layer And Pad Q6-6(4189.681mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2680mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2915mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2945mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,2975mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.505mil < 20mil) Between Pad Free-10(4185mil,3005mil) on Multi-Layer And Pad Q3-6(4189.681mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4185mil,3005mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2590mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (13mil < 20mil) Between Pad Free-10(4225mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2590mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2620mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2650mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (13.495mil < 20mil) Between Pad Free-10(4225mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (13mil < 20mil) Between Pad Free-10(4225mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.108mil < 20mil) Between Pad Free-10(4225mil,2650mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.938mil < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Pad Q6-5(4239.685mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (16.831mil < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Pad Q6-6(4189.681mil,2716.377mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Pad Q6-9(4164.681mil,2632.245mil) on Top Layer 
+   Violation between Clearance Constraint: (13.495mil < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (13mil < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2680mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2915mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2945mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,2975mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (6.727mil < 20mil) Between Pad Free-10(4225mil,3005mil) on Multi-Layer And Pad Q3-5(4239.685mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (17.918mil < 20mil) Between Pad Free-10(4225mil,3005mil) on Multi-Layer And Pad Q3-6(4189.681mil,3043.19mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 20mil) Between Pad Free-10(4225mil,3005mil) on Multi-Layer And Pad Q3-9(4164.681mil,2959.058mil) on Top Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad GPIO1-10(4725mil,3100mil) on Multi-Layer And Track (4626.472mil,3143.528mil)(4761.472mil,3143.528mil) on Bottom Layer 
+   Violation between Clearance Constraint: (17.041mil < 20mil) Between Pad GPIO1-10(4725mil,3100mil) on Multi-Layer And Track (4761.472mil,3143.528mil)(4850mil,3055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (16.945mil < 20mil) Between Pad GPIO1-11(4725mil,3200mil) on Multi-Layer And Track (4626.472mil,3143.528mil)(4761.472mil,3143.528mil) on Bottom Layer 
+   Violation between Clearance Constraint: (19.973mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4235.1mil,3754.5mil)(5044.5mil,3754.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4446.271mil,3738.528mil)(4740.959mil,3738.528mil) on Bottom Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4503.528mil,3661.472mil)(4760.472mil,3661.472mil) on Bottom Layer 
+   Violation between Clearance Constraint: (7.16mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4740.959mil,3738.528mil)(4740.986mil,3738.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (7.16mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4740.986mil,3738.5mil)(5343.5mil,3738.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (17.798mil < 20mil) Between Pad GPIO1-16(4725mil,3700mil) on Multi-Layer And Track (4760.472mil,3661.472mil)(4777.528mil,3678.528mil) on Bottom Layer 
+   Violation between Clearance Constraint: (10.973mil < 20mil) Between Pad GPIO1-17(4725mil,3800mil) on Multi-Layer And Track (4235.1mil,3754.5mil)(5044.5mil,3754.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (9.946mil < 20mil) Between Pad GPIO1-17(4725mil,3800mil) on Multi-Layer And Track (4630.605mil,3768.5mil)(4707.105mil,3845mil) on Bottom Layer 
+   Violation between Clearance Constraint: (10.473mil < 20mil) Between Pad GPIO1-17(4725mil,3800mil) on Multi-Layer And Track (4707.105mil,3845mil)(5140mil,3845mil) on Bottom Layer 
+   Violation between Clearance Constraint: (6.473mil < 20mil) Between Pad GPIO1-18(4725mil,3900mil) on Multi-Layer And Track (4658.595mil,3859mil)(5311mil,3859mil) on Bottom Layer 
+   Violation between Clearance Constraint: (16.945mil < 20mil) Between Pad GPIO1-18(4725mil,3900mil) on Multi-Layer And Track (4666.472mil,3956.472mil)(5156.472mil,3956.472mil) on Top Layer 
+   Violation between Clearance Constraint: (10.473mil < 20mil) Between Pad GPIO1-18(4725mil,3900mil) on Multi-Layer And Track (4685.514mil,3855mil)(5080mil,3855mil) on Top Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad GPIO1-19(4725mil,4000mil) on Multi-Layer And Track (4666.472mil,3956.472mil)(5156.472mil,3956.472mil) on Top Layer 
+   Violation between Clearance Constraint: (10.473mil < 20mil) Between Pad GPIO1-4(4725mil,2500mil) on Multi-Layer And Track (4680mil,2455mil)(4765mil,2455mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.748mil < 20mil) Between Pad L1-1(4235.315mil,3680.158mil) on Top Layer And Pad L1-2(4274.685mil,3680.158mil) on Top Layer 
+   Violation between Clearance Constraint: (19.185mil < 20mil) Between Pad Q1-4(3699.997mil,2816.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad Q1-4(3699.997mil,2816.813mil) on Top Layer And Track (3699.376mil,2770mil)(3745mil,2815.624mil) on Top Layer 
+   Violation between Clearance Constraint: (16.724mil < 20mil) Between Pad Q1-5(3699.997mil,3043.19mil) on Top Layer And Track (3685.405mil,3120mil)(3730mil,3075.405mil) on Top Layer 
+   Violation between Clearance Constraint: (13.192mil < 20mil) Between Pad Q1-5(3699.997mil,3043.19mil) on Top Layer And Track (3730mil,2830mil)(3730mil,3075.405mil) on Top Layer 
+   Violation between Clearance Constraint: (19.089mil < 20mil) Between Pad Q2-4(3969.841mil,2816.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (16.703mil < 20mil) Between Pad Q3-4(4239.685mil,2816.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (18.262mil < 20mil) Between Pad Q3-4(4239.685mil,2816.813mil) on Top Layer And Track (4105mil,2770mil)(4215mil,2770mil) on Top Layer 
+   Violation between Clearance Constraint: (18.262mil < 20mil) Between Pad Q3-4(4239.685mil,2816.813mil) on Top Layer And Track (4215mil,2770mil)(4239.685mil,2745.315mil) on Top Layer 
+   Violation between Clearance Constraint: (16.014mil < 20mil) Between Pad Q3-6(4189.681mil,3043.19mil) on Top Layer And Track (4058.5mil,3088.5mil)(4173.387mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (16.014mil < 20mil) Between Pad Q3-6(4189.681mil,3043.19mil) on Top Layer And Track (4173.387mil,3088.5mil)(4200mil,3105mil) on Top Layer 
+   Violation between Clearance Constraint: (15.625mil < 20mil) Between Pad Q3-7(4139.681mil,3043.19mil) on Top Layer And Track (4058.5mil,3088.5mil)(4173.387mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (15.625mil < 20mil) Between Pad Q3-8(4089.681mil,3043.19mil) on Top Layer And Track (4058.5mil,3088.5mil)(4173.387mil,3088.5mil) on Top Layer 
+   Violation between Clearance Constraint: (19.321mil < 20mil) Between Pad Q3-8(4089.681mil,3043.19mil) on Top Layer And Via (4055mil,3085mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (17.484mil < 20mil) Between Pad Q4-4(3699.997mil,2486.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (18.192mil < 20mil) Between Pad Q4-4(3699.997mil,2486.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.186mil < 20mil) Between Pad Q4-4(3699.997mil,2486.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (9.498mil < 20mil) Between Pad Q4-4(3699.997mil,2486.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (10.523mil < 20mil) Between Pad Q5-4(3969.841mil,2491.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (13.03mil < 20mil) Between Pad Q5-4(3969.841mil,2491.813mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.348mil < 20mil) Between Pad Q5-4(3969.841mil,2491.813mil) on Top Layer And Track (4010mil,2335mil)(4010mil,2677.292mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 20mil) Between Pad Q6-4(4239.685mil,2490mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (19.309mil < 20mil) Between Pad R10-1(4105mil,3630.345mil) on Top Layer And Track (4013.11mil,3590.16mil)(4134.717mil,3590.16mil) on Top Layer 
+   Violation between Clearance Constraint: (17.521mil < 20mil) Between Pad R10-1(4105mil,3630.345mil) on Top Layer And Track (4060.941mil,3640mil)(4065.47mil,3640mil) on Top Layer 
+   Violation between Clearance Constraint: (10.021mil < 20mil) Between Pad R10-1(4105mil,3630.345mil) on Top Layer And Via (4065.47mil,3640mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (7.992mil < 20mil) Between Pad R10-2(4105mil,3689.655mil) on Top Layer And Track (4058.905mil,3663.5mil)(4075mil,3679.595mil) on Top Layer 
+   Violation between Clearance Constraint: (7.992mil < 20mil) Between Pad R10-2(4105mil,3689.655mil) on Top Layer And Track (4075mil,3679.595mil)(4075mil,3705.266mil) on Top Layer 
+   Violation between Clearance Constraint: (4mil < 20mil) Between Pad R10-2(4105mil,3689.655mil) on Top Layer And Track (4075mil,3705.266mil)(4214.734mil,3845mil) on Top Layer 
+   Violation between Clearance Constraint: (17.954mil < 20mil) Between Pad R11-2(4180mil,3624.655mil) on Top Layer And Track (4131.221mil,3641.22mil)(4295mil,3805mil) on Top Layer 
+   Violation between Clearance Constraint: (16.733mil < 20mil) Between Pad R1-2(4320mil,3935.69mil) on Top Layer And Track (4230mil,3955mil)(4284.5mil,3900.5mil) on Top Layer 
+   Violation between Clearance Constraint: (9.315mil < 20mil) Between Pad R1-2(4320mil,3935.69mil) on Top Layer And Track (4284.5mil,3900.5mil)(4319.382mil,3900.5mil) on Top Layer 
+   Violation between Clearance Constraint: (9.315mil < 20mil) Between Pad R1-2(4320mil,3935.69mil) on Top Layer And Track (4319.382mil,3900.5mil)(4319.882mil,3900mil) on Top Layer 
+   Violation between Clearance Constraint: (9.815mil < 20mil) Between Pad R1-2(4320mil,3935.69mil) on Top Layer And Track (4319.882mil,3900mil)(4327.477mil,3900mil) on Top Layer 
+   Violation between Clearance Constraint: (9.815mil < 20mil) Between Pad R1-2(4320mil,3935.69mil) on Top Layer And Track (4327.477mil,3900mil)(4435mil,3792.477mil) on Top Layer 
+   Violation between Clearance Constraint: (16.288mil < 20mil) Between Pad R12-1(4310.4mil,3624.6mil) on Top Layer And Track (4251.09mil,3625.733mil)(4274.685mil,3649.328mil) on Top Layer 
+   Violation between Clearance Constraint: (16.288mil < 20mil) Between Pad R12-1(4310.4mil,3624.6mil) on Top Layer And Track (4274.685mil,3649.328mil)(4274.685mil,3680.158mil) on Top Layer 
+   Violation between Clearance Constraint: (9.487mil < 20mil) Between Pad R13-1(4454.655mil,3040mil) on Top Layer And Track (4395.345mil,3041.133mil)(4435mil,3080.787mil) on Top Layer 
+   Violation between Clearance Constraint: (14.078mil < 20mil) Between Pad R13-1(4454.655mil,3040mil) on Top Layer And Track (4435mil,3080.787mil)(4435mil,3330mil) on Top Layer 
+   Violation between Clearance Constraint: (14.236mil < 20mil) Between Pad R7-2(3419.281mil,3355mil) on Top Layer And Track (3374.799mil,3185mil)(3374.799mil,3475mil) on Top Layer 
+   Violation between Clearance Constraint: (13.973mil < 20mil) Between Pad R8-1(3774.281mil,3355mil) on Top Layer And Track (3818.5mil,3416.095mil)(3818.5mil,3443.905mil) on Top Layer 
+   Violation between Clearance Constraint: (13.973mil < 20mil) Between Pad R8-1(3774.281mil,3355mil) on Top Layer And Track (3818.5mil,3416.095mil)(3879.595mil,3355mil) on Top Layer 
+   Violation between Clearance Constraint: (13.242mil < 20mil) Between Pad R8-2(4015.719mil,3355mil) on Top Layer And Track (4039.796mil,3450mil)(4071.764mil,3418.032mil) on Top Layer 
+   Violation between Clearance Constraint: (11.969mil < 20mil) Between Pad R9-2(4129.281mil,3355mil) on Top Layer And Track (4069.595mil,3440mil)(4215mil,3440mil) on Top Layer 
+Rule Violations :499
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (AGND_L01_P008) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00

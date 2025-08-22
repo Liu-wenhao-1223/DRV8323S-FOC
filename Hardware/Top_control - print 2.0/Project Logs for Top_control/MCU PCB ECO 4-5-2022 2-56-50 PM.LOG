@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=BOOT0 NewDesignator=S2
+Change Component Designator: OldDesignator=L1 NewDesignator=LED1
+Change Component Designator: OldDesignator=NRST NewDesignator=S1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=U1-12
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Change Class Name : Old Net Name=Sheet1 New Net Name=MCU
+Added Room: Name=MCU

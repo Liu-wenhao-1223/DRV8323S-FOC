@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=GPIO_55 New Net Name=SPI1_SCK
+Change Net Name : Old Net Name=GPIO_56 New Net Name=SPI1_MISO
+Change Net Name : Old Net Name=GPIO_57 New Net Name=SPI1_MOSI
+Added Room: Name=MCU

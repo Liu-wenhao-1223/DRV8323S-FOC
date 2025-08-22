@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.3V Pin=G1-2
+Added Pin To Net: NetName=A3.3V Pin=G1-2
+Added Room: Name=MCU

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=BOOT0-3
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=3.3V Pin=C20-2
+Removed Pin From Net: NetName=CS Pin=J1-1
+Removed Pin From Net: NetName=3.3V Pin=J1-2
+Removed Pin From Net: NetName=SPI3_SCK Pin=J1-3
+Removed Pin From Net: NetName=SPI3_MOSI Pin=J1-4
+Removed Pin From Net: NetName=DC Pin=J1-5
+Removed Pin From Net: NetName=RES Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=NetC5_1 Pin=NRST-3
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=BLK Pin=R14-1
+Removed Pin From Net: NetName=3.3V Pin=R15-1
+Removed Member From Class: ClassName=MCU Member=C20
+Removed Member From Class: ClassName=MCU Member=Q1
+Removed Member From Class: ClassName=MCU Member=R14
+Removed Member From Class: ClassName=MCU Member=R15
+Removed Member From Class: ClassName=MCU Member=R16
+Change Component Footprint: Designator=J1 Old Footprint=FPC-SMD_KH-FG0.5-H2.0-8PIN New Footprint=HDR1X8
+Added Pin To Net: NetName=BLK Pin=J1-1
+Added Pin To Net: NetName=CS Pin=J1-2
+Added Pin To Net: NetName=DC Pin=J1-3
+Added Pin To Net: NetName=RES Pin=J1-4
+Added Pin To Net: NetName=SPI3_MOSI Pin=J1-5
+Added Pin To Net: NetName=SPI3_SCK Pin=J1-6
+Added Pin To Net: NetName=3.3V Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=NetC5_1 Pin=NRST-1
+Added Pin To Net: NetName=NetR2_1 Pin=BOOT0-1
+Added Room: Name=MCU

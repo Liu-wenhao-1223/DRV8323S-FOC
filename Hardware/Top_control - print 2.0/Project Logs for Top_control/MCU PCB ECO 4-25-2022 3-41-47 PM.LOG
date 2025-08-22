@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CS Pin=U1-10
+Removed Pin From Net: NetName=BLK Pin=U1-50
+Added Pin To Net: NetName=BLK Pin=U1-10
+Added Pin To Net: NetName=CS Pin=U1-50
+Added Room: Name=MCU

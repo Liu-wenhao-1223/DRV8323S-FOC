@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=+5 Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=C15-2
+Removed Pin From Net: NetName=+5 Pin=C24-1
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=+5 Pin=U2-3
+Removed Pin From Net: NetName=+5 Pin=U3-3
+Removed Pin From Net: NetName=+5 Pin=U5-A4B9
+Removed Pin From Net: NetName=+5 Pin=U5-B4A9
+Change Net Name : Old Net Name=+5 New Net Name=GND
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=+5 Pin=C18-2
+Added Pin To Net: NetName=+5 Pin=C19-2
+Added Pin To Net: NetName=+5 Pin=C24-1
+Added Pin To Net: NetName=+5 Pin=P2-1
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Pin To Net: NetName=+5 Pin=U3-3
+Added Pin To Net: NetName=+5 Pin=U5-A4B9
+Added Pin To Net: NetName=+5 Pin=U5-B4A9
+Added Net: Name=+5
+Added Room: Name=Sheet1

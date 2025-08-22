@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LEDK Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=RES Pin=J1-3
+Removed Pin From Net: NetName=DC Pin=J1-4
+Removed Pin From Net: NetName=SPI3_MOSI Pin=J1-5
+Removed Pin From Net: NetName=SPI3_SCK Pin=J1-6
+Removed Pin From Net: NetName=3.3V Pin=J1-7
+Removed Pin From Net: NetName=CS Pin=J1-8
+Added Pin To Net: NetName=CS Pin=J1-1
+Added Pin To Net: NetName=3.3V Pin=J1-2
+Added Pin To Net: NetName=SPI3_SCK Pin=J1-3
+Added Pin To Net: NetName=SPI3_MOSI Pin=J1-4
+Added Pin To Net: NetName=DC Pin=J1-5
+Added Pin To Net: NetName=RES Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=LEDK Pin=J1-8
+Added Room: Name=Sheet1

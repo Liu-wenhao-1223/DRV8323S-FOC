@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=AGND Pin=CA-2
+Removed Pin From Net: NetName=AGND Pin=CB-2
+Removed Pin From Net: NetName=AGND Pin=CC-2
+Change Component Comment : Designator=Q1 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change Component Comment : Designator=Q2 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change Component Comment : Designator=Q3 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change Component Comment : Designator=Q4 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change Component Comment : Designator=Q5 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change Component Comment : Designator=Q6 Old Comment=DMTH6002LPS-13 New Comment=WSD75100DN56-DFN5X6-8
+Change component parameters: Designator = "Q1"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\OHQNWSBU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q2"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\CBENEEMV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q3"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\ZHDQXDUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q4"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\FDCVIQBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q5"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\QSEJAOAH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q6"; Footprint = "WSD75100DN56_DFN-8_L5.8-W4.9-P1.27-LS6.1-BL"; UniqueID = "\XLNLRBJQ"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=C20(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=AGND Pin=R3-1
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Added Pin To Net: NetName=A3.3V Pin=C10-2
+Added Pin To Net: NetName=A3.3V Pin=C20-2
+Added Pin To Net: NetName=A3.3V Pin=R2-2
+Added Pin To Net: NetName=A3.3V Pin=DRV8323S-24
+Added Net: Name=A3.3V
+Added Pin To Net: NetName=AGND Pin=C10-1
+Added Pin To Net: NetName=AGND Pin=C20-1
+Added Pin To Net: NetName=AGND Pin=GPIO1-9
+Added Pin To Net: NetName=AGND Pin=R3-2
+Added Net: Name=AGND
+Added Member To Class: ClassName=FOC_Drive_2 Member=Component C20 Cap
+Added Member To Class: ClassName=FOC_Drive_2 Member=Component R2 0R
+Added Member To Class: ClassName=FOC_Drive_2 Member=Component R3 0R
+Added Room: Name=FOC_Drive_2
