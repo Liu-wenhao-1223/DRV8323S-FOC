@@ -9,12 +9,4 @@
 
 
 ---
-
-## 📂 项目结构
-```bash
-/project
- ├── hardware/     # 硬件设计文件（原理图/PCB/Gerber）
- ├── firmware/     # STM32 固件代码（C/FreeRTOS/HAL）
- ├── docs/         # 文档、说明书、设计报告
- ├── examples/     # 示例程序
- └── LICENSE       # 开源协议
+2022年本科毕设
